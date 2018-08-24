@@ -12,3 +12,8 @@ body {
     font-family: 'EB Garamond', serif;
     font-size: large;
 }
+.profileCard_container {
+    width: 50%;
+    height:400px;
+    display: inline-block;
+}
