@@ -13,12 +13,15 @@ body {
     font-size: large;
 }
 .profileCard_container {
-    width: 50%;
+    width: 48%;
     display: inline-block;
     border: 1px solid darkviolet;
-    margin: 100px 10px;
+    margin-top: 100px;
     border-radius: 20px;
-    height: 400px;
+    padding-left:5px;
+    padding-right:5px;
+    margin-right:0.5%;
+    margin-left:0.5%;
 }
 .profile_heading {
     border-bottom: 1px solid darkviolet;
