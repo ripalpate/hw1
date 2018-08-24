@@ -14,6 +14,24 @@ body {
 }
 .profileCard_container {
     width: 50%;
-    height:400px;
     display: inline-block;
+    border: 1px solid darkviolet;
+    margin: 100px 10px;
+    border-radius: 20px;
+    height: 400px;
+}
+.profile_heading {
+    border-bottom: 1px solid darkviolet;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.profile_image {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    width:30%;
+}
+.profile_desc {
+    padding:5px 20px;
+    text-align: justify;
 }
